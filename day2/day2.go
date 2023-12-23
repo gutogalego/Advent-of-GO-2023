@@ -114,7 +114,6 @@ func problem2() {
 		}
 	}
 
-	fmt.Println("sum: ", sum)
 }
 
 func main() {
